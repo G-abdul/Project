@@ -6,7 +6,7 @@
 
 VERSION=0.1.0
 SUBJECT=some-unique-id
-USAGE="Usage: command -ihv args"
+USAGE="Wastage: command -ihv args"
 
 # --- Options processing -------------------------------------------
 if [ $# == 0 ] ; then
